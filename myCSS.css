@@ -32,7 +32,7 @@ a:hover, a:active, a:focus {
 	float: left;
 	width: 100%;
 	height: 80px;
-	
+	font: Comic Sans MS, Comic Sans, cursive;
 }
 .nav {
 	background: #50A6DB;
@@ -42,6 +42,7 @@ a:hover, a:active, a:focus {
 	width: 100%;
 	height: 60px;
 	text-align: center;
+	font: Comic Sans MS, Comic Sans, cursive;
 }
 .content {
 	background: #EEEEEE;
@@ -57,4 +58,5 @@ a:hover, a:active, a:focus {
 	width: 100%;
 	height: 50px;
 	text-align: center;
+	font: Comic Sans MS, Comic Sans, cursive;
 }
