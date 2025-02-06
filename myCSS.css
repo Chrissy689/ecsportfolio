@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /* This is a comment! Text here will be ignored by the browser. */
 body {
-     font: Comic Sans;
+     font: Brush Script MT, cursive;
      background-color: #29507A;
      margin: 0;
      padding: 0;
@@ -32,7 +32,6 @@ a:hover, a:active, a:focus {
 	float: left;
 	width: 100%;
 	height: 80px;
-	font:  Comic Sans;
 }
 .nav {
 	background: #50A6DB;
@@ -42,7 +41,6 @@ a:hover, a:active, a:focus {
 	width: 100%;
 	height: 60px;
 	text-align: center;
-	font: Comic Sans;
 }
 .content {
 	background: #323232;
@@ -58,5 +56,4 @@ a:hover, a:active, a:focus {
 	width: 100%;
 	height: 50px;
 	text-align: center;
-	font: Comic Sans;
 }
