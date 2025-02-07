@@ -8,6 +8,12 @@ body {
      color: #FFFFFF;
 }
 
+.caveat-brush-regular {
+  font-family: "Caveat Brush", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
 a:link {
      color: #FFFFFF;
 }
