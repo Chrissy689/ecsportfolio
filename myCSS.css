@@ -5,19 +5,18 @@ body {
      background-color: #29507A;
      margin: 0;
      padding: 0;
-     color: #9BB264;
+     color: #FFFFFF;
 }
 .caveat-brush-regular {
   font-family: "Caveat Brush", serif;
   font-weight: 400;
   font-style: normal;
-  color: #9BB264;
 }
 a:link {
-     color: #9BB264;
+     color: #FFFFFF;
 }
 a:visited {
-     color: #9BB264;
+     color: #FFFFFF;
 }
 a:hover, a:active, a:focus { 
      text-decoration: bold;
