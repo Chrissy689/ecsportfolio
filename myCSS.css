@@ -21,7 +21,8 @@ a:visited {
      color: #FFFFFF;
 }
 a:hover, a:active, a:focus { 
-     text-decoration: bold;
+     text-decoration: underline;
+	text-decoration-style: wavy;
 }
 .homePage {
 	background: #051830;
