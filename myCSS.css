@@ -63,9 +63,3 @@ a:hover, a:active, a:focus {
 	height: 50px;
 	text-align: center;
 }
-img {
-	border-style: double;
-	border-width: 10px;
-	border-radius: 20px;
-	border-color: #52de77;
-}
