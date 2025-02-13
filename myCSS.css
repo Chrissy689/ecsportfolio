@@ -11,11 +11,11 @@ body {
   font-family: "Caveat Brush", serif;
   font-weight: 400;
   font-style: normal;
-  font-size: 12px;
+  font-size: 24px;
 }
 a:link {
      color: #FFFFFF;
-     font-size: 45px;
+     font-size: 12px;
 }
 a:visited {
      color: #FFFFFF;
