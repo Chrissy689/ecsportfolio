@@ -63,3 +63,7 @@ a:hover, a:active, a:focus {
 	height: 50px;
 	text-align: center;
 }
+.img {
+	float: right;
+	height: 250px;
+}
