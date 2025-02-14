@@ -63,3 +63,7 @@ a:hover, a:active, a:focus {
 	height: 50px;
 	text-align: center;
 }
+.h1 {
+	color: #FFFFFF;
+	text-shadow: -5px 5px #FDE0AA;
+}
