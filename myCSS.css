@@ -38,6 +38,7 @@ a:hover, a:active, a:focus {
 	float: left;
 	width: 100%;
 	height: 80px;
+	text-shadow: -5px 5px #FDE0AA;
 }
 .nav {
 	background: #50A6DB;
@@ -62,8 +63,4 @@ a:hover, a:active, a:focus {
 	width: 100%;
 	height: 50px;
 	text-align: center;
-}
-h1 {
-	color: #FFFFFF;
-	text-shadow: -5px 5px #FDE0AA;
 }
