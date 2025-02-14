@@ -69,3 +69,7 @@ img {
   	border-radius: 20px;
   	border-width: 5px;
 }
+.h1 {
+	color: #FFFFFF;
+	text-shadow: -5px 5px #FDE0AA;
+}
