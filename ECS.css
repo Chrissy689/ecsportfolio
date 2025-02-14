@@ -38,7 +38,6 @@ a:hover, a:active, a:focus {
 	float: left;
 	width: 100%;
 	height: 80px;
-	text-shadow: -5px 5px #FDE0AA;
 }
 .nav {
 	background: #50A6DB;
@@ -69,4 +68,7 @@ img {
   	border-style: solid;
   	border-radius: 20px;
   	border-width: 5px;
+}
+h1 {
+	text-shadow: -5px 5px #FDE0AA;
 }
