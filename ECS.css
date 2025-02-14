@@ -69,10 +69,3 @@ img {
   	border-radius: 20px;
   	border-width: 5px;
 }
-.flex-container { 
- 	display: flex; 
- 	justify-content:space-around;  
- 	width: 300px; 
-}
-
-	
