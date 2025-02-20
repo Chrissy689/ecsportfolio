@@ -55,6 +55,7 @@ a:hover, a:active, a:focus {
 	float: left;
 	width: 100%;
 	text-align: left;
+	text-size: 15px;
 }
 .footer {
 	background: #75C076;
@@ -69,7 +70,4 @@ img {
   	border-style: solid;
   	border-radius: 20px;
   	border-width: 5px;
-}
-p {
-	text-size: 15px; 
 }
